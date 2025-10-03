@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="title_activity_main">Calculadora IMC</string>
+    <string name="package_name">com.example.appImc</string>
+    <string name="custom_url_scheme">com.example.appImc</string>
+</resources>
