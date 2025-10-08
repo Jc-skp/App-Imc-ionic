@@ -1,0 +1,8 @@
+{
+  "appId": "com.jose.imcapp",
+  "appName": "Calculadora IMC",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}

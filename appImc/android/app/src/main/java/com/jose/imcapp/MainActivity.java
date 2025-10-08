@@ -1,4 +1,4 @@
-package com.example.appImc;
+package com.jose.imcapp;
 
 import com.getcapacitor.BridgeActivity;
 
